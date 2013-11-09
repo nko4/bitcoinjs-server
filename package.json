@@ -31,6 +31,7 @@
   ],
 
   "dependencies": {
+    "mongodb": "*",
     "buffertools": ">=1.0.3",
     "binary": ">=0.2.5 <0.3",
     "bignum": ">=0.4.0",
@@ -45,7 +46,6 @@
     "lru-cache": ">=1.0.4",
     "pkginfo": ">=0.2.0",
     "buffers": ">=0.1.1",
-    "leveldown": ">=0.2.1",
     "mkdirp": ">=0.2.1",
     "npm": "*"
   },
